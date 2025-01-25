@@ -3,26 +3,41 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-
-def solution_helper(n1,n2,carry):
-    num1=0
-    num2=0
-    if not n1 and not n2:
-        if carry != 0:
-            return ListNode(1)
-        return None
-    if n1:
-        num1=n1.val
-        n1=n1.next
-    if n2:
-        num2=n2.val
-        n2=n2.next
-    sum=num1+num2+carry
-    node=ListNode((sum)%10)
-    node.next=solution_helper(n1,n2,int((sum)/10))
-    return node
-
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        return solution_helper(l1,l2,0)
+        n1=l1
+        n2=l2
+        sum=0
+        carry=0
+        while n1.next and n2.next:
+            sum=n1.val+n2.val+carry
+            n1.val=sum%10
+            carry=sum//10
+            n1=n1.next
+            n2=n2.next
         
+        sum=n1.val+n2.val+carry
+        n1.val=sum%10
+        carry=sum//10
+
+        if n2.next:
+            n1.next=n2.next
+        
+        if carry == 0:
+            return l1
+        
+        curr=n1
+        n1=n1.next
+        while n1:
+            # n1=n1.next
+            sum=n1.val+carry
+            n1.val=sum%10
+            carry=sum//10
+            curr=n1
+            n1=n1.next
+        if carry == 1:
+            curr.next=ListNode(1)
+        return l1
+
+
+    
