@@ -21,8 +21,8 @@ class Solution:
                 return s[0]
         
         for i in range(s_size):
-            for j in range(i,s_size):
-                if j-i+1 > longest_length and check_palindrome(i,j):
+            for j in range(i+longest_length,s_size):
+                if check_palindrome(i,j):
                     longest_length = j-i+1
                     longest=s[i:j+1]
         return longest
