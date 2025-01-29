@@ -27,6 +27,6 @@ class Solution:
                 if check_palindrome(i,j):
                     longest_length = j-i+1
                     longest=s[i:j+1]
-                    print(i,j,longest)
+                    # print(i,j,longest)
                     break
         return longest
