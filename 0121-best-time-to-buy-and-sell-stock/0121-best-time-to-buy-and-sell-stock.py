@@ -3,8 +3,8 @@ class Solution:
         buy,sell=0,1
         profit=0
         while sell<len(prices):
+            curr=prices[sell]-prices[buy]
             if prices[buy] < prices[sell]:
-                curr=prices[sell]-prices[buy]
                 if curr > profit:
                     profit=curr
             else:
