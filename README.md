@@ -8,6 +8,7 @@
 | [0056-merge-intervals](https://github.com/ashishhulkoti/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishhulkoti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/ashishhulkoti/LeetCode/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,20 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/ashishhulkoti/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0088-merge-sorted-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ashishhulkoti/LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ashishhulkoti/LeetCode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ashishhulkoti/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ashishhulkoti/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
