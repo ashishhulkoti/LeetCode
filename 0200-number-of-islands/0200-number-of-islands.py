@@ -1,7 +1,7 @@
 class Solution:
     
     def grid_dfs(self,grid,k,l):
-        if k<0 or l<0 or l>=len(grid[0]) or k>=len(grid) or grid[k][l]!="1":
+        if k<0 or l<0 or l>=len(grid[0]) or k>=len(grid) or grid[k][l]=="0":
             return
         # if grid[k][l]!="1":
         #     return
