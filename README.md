@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/ashishhulkoti/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishhulkoti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/ashishhulkoti/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/ashishhulkoti/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ashishhulkoti/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishhulkoti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ashishhulkoti/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishhulkoti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ashishhulkoti/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/ashishhulkoti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ashishhulkoti/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Linked List
@@ -40,6 +42,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishhulkoti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ashishhulkoti/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/ashishhulkoti/LeetCode/tree/master/0049-group-anagrams) |
 | [1894-merge-strings-alternately](https://github.com/ashishhulkoti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ashishhulkoti/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sliding Window
@@ -71,6 +74,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ashishhulkoti/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ashishhulkoti/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/ashishhulkoti/LeetCode/tree/master/0347-top-k-frequent-elements) |
