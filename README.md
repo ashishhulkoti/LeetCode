@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ashishhulkoti/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishhulkoti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/ashishhulkoti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/ashishhulkoti/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishhulkoti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -58,12 +59,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashishhulkoti/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ashishhulkoti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/ashishhulkoti/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashishhulkoti/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ashishhulkoti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishhulkoti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -104,4 +107,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ashishhulkoti/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ashishhulkoti/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ashishhulkoti/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
