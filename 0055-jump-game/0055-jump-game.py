@@ -7,8 +7,8 @@ class Solution:
         while jump_position>=0:
             if (jump_position+nums[jump_position])>=dest:
                 dest=jump_position
-                if jump_position==0:
-                    return True            
             jump_position-=1
+        if dest==0:
+            return True
         return False
             
