@@ -8,13 +8,8 @@ class Solution:
                 nums1[i]=nums2[i]
         elif n==0:
             pass
-        # elif nums1[m-1]<nums2[0]:
-        #     nums1=list(nums1[0:m].extend(nums2[0:n]))
-        # elif nums2[n-1]<nums1[0]:
-        #     nums1=list(nums2[0:n].extend(nums1[0:m]))
         else:
             k=m+n-1
-            dum=[]
             i,j=m-1,n-1
             while i>=0 and j>=0:
                 if nums1[i] > nums2[j]:
