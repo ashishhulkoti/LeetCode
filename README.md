@@ -46,6 +46,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishhulkoti/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ashishhulkoti/LeetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/ashishhulkoti/LeetCode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ashishhulkoti/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ashishhulkoti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ashishhulkoti/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ashishhulkoti/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishhulkoti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishhulkoti/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Sorting
@@ -173,4 +175,8 @@
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashishhulkoti/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ashishhulkoti/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
