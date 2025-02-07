@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/ashishhulkoti/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ashishhulkoti/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ashishhulkoti/LeetCode/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/ashishhulkoti/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishhulkoti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishhulkoti/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -58,6 +59,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ashishhulkoti/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ashishhulkoti/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ashishhulkoti/LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/ashishhulkoti/LeetCode/tree/master/0079-word-search) |
 | [0778-reorganize-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0778-reorganize-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ashishhulkoti/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/ashishhulkoti/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -106,6 +108,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ashishhulkoti/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ashishhulkoti/LeetCode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -118,6 +121,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ashishhulkoti/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ashishhulkoti/LeetCode/tree/master/0200-number-of-islands) |
 ## Heap (Priority Queue)
 |  |
@@ -179,4 +183,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashishhulkoti/LeetCode/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ashishhulkoti/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
