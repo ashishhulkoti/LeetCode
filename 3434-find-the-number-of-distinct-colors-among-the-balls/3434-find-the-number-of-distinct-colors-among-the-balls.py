@@ -14,17 +14,17 @@ class Solution:
                     c_dict[c]=1
                     count+=1
             else:
-                if c_dict[b_dict[b]]==1:
-                    del c_dict[b_dict[b]]
+                oc=b_dict[b]
+                if c_dict[oc]==1:
+                    del c_dict[oc]
                     count-=1
                 else:
-                    c_dict[b_dict[b]]-=1
+                    c_dict[oc]-=1
                 b_dict[b]=c
                 if c in c_dict:
                     c_dict[c]+=1
                 else:
                     c_dict[c]=1
                     count+=1
-            # print(b_dict,c_dict)
             ans.append(count)
         return ans
