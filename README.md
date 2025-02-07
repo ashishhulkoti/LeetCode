@@ -21,6 +21,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ashishhulkoti/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashishhulkoti/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ashishhulkoti/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@
 | [1364-tuple-with-same-product](https://github.com/ashishhulkoti/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ashishhulkoti/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashishhulkoti/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ashishhulkoti/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Linked List
 |  |
@@ -170,4 +172,5 @@
 |  |
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashishhulkoti/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
