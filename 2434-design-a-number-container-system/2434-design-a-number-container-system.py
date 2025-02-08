@@ -16,7 +16,7 @@ class NumberContainers:
 
 
     def find(self, number: int) -> int:
-        if number not in self.number_pos:
+        if (number not in self.number_pos) or (len(self.number_pos[number])==0):
             return -1
         return self.number_pos[number][0]
 
