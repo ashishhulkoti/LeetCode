@@ -37,6 +37,7 @@
 | [0778-reorganize-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0778-reorganize-string) |
 | [1364-tuple-with-same-product](https://github.com/ashishhulkoti/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ashishhulkoti/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/ashishhulkoti/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashishhulkoti/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ashishhulkoti/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -133,6 +134,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/ashishhulkoti/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/ashishhulkoti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0778-reorganize-string) |
+| [2434-design-a-number-container-system](https://github.com/ashishhulkoti/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
@@ -195,4 +197,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ashishhulkoti/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/ashishhulkoti/LeetCode/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/ashishhulkoti/LeetCode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
