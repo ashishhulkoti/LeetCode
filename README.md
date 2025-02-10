@@ -73,6 +73,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ashishhulkoti/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/ashishhulkoti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ashishhulkoti/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/ashishhulkoti/LeetCode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashishhulkoti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ashishhulkoti/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [3447-clear-digits](https://github.com/ashishhulkoti/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashishhulkoti/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/ashishhulkoti/LeetCode/tree/master/3447-clear-digits) |
 ## Memoization
 |  |
 | ------- |
