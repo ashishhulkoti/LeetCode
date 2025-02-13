@@ -1,7 +1,7 @@
 import heapq
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:
-        nums.sort()
+        # nums.sort()
         heapq.heapify(nums)
         ops=0
         while len(nums)>=2:
