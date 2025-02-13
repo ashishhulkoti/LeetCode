@@ -23,6 +23,7 @@
 | [0238-product-of-array-except-self](https://github.com/ashishhulkoti/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ashishhulkoti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashishhulkoti/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1306-minimum-absolute-difference](https://github.com/ashishhulkoti/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1364-tuple-with-same-product](https://github.com/ashishhulkoti/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ashishhulkoti/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ashishhulkoti/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -139,6 +140,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ashishhulkoti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0778-reorganize-string) |
+| [1306-minimum-absolute-difference](https://github.com/ashishhulkoti/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishhulkoti/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishhulkoti/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
