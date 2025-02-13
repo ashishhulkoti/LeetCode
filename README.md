@@ -28,6 +28,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashishhulkoti/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishhulkoti/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ashishhulkoti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ashishhulkoti/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ashishhulkoti/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3429-special-array-i) |
@@ -84,6 +85,7 @@
 | [1894-merge-strings-alternately](https://github.com/ashishhulkoti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ashishhulkoti/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashishhulkoti/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ashishhulkoti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3447-clear-digits](https://github.com/ashishhulkoti/LeetCode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
@@ -174,6 +176,7 @@
 | [1364-tuple-with-same-product](https://github.com/ashishhulkoti/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ashishhulkoti/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashishhulkoti/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ashishhulkoti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ashishhulkoti/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Quickselect
 |  |
