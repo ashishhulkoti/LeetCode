@@ -1,7 +1,7 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        if len(nums)==2:
-            return [nums[1],nums[0]]
+        # if len(nums)==2:
+        #     return [nums[1],nums[0]]
         prod_l,prod_r=1,1
         ans=[1]*len(nums)
 
