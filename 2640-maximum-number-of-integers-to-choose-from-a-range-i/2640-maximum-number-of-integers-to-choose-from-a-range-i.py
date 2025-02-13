@@ -8,9 +8,9 @@ class Solution:
         for i in range (1,n+1):
             if i in banned_dict:
                 continue
-            sumn+=i
-            if sumn>maxSum:
+            if sumn+i>maxSum:
                 return count
+            sumn+=i
             count+=1
             # print(count,sumn)
         return count
