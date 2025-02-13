@@ -1,8 +1,8 @@
 class Solution:
     def maxCount(self, banned: List[int], n: int, maxSum: int) -> int:
-        banned_dict={}
-        for x in banned:
-            banned_dict[x]=1
+        banned_dict=set(banned)
+        # for x in banned:
+        #     banned_dict[x]=1
         count=0
         sumn=0
         for i in range (1,n+1):
