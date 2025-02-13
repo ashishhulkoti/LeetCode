@@ -22,6 +22,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ashishhulkoti/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ashishhulkoti/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashishhulkoti/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1364-tuple-with-same-product](https://github.com/ashishhulkoti/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ashishhulkoti/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ashishhulkoti/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishhulkoti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashishhulkoti/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishhulkoti/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
 |  |
