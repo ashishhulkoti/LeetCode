@@ -5,11 +5,12 @@ class Solution:
         highest=nums[0]
         for n in nums:
             curr_sum+=n
+            if curr_sum>max_sum:
+                max_sum=curr_sum
             if curr_sum<0:
                 curr_sum=0
-            else:
-                if curr_sum>max_sum:
-                    max_sum=curr_sum
-            if n>highest:
-                highest=n
-        return max(max_sum,highest)
+            # else:
+            # if n>highest:
+            #     highest=n
+        return max_sum
+        # return max(max_sum,highest)
