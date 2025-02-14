@@ -12,4 +12,7 @@ class Solution:
                     max_sum=curr_sum
             if n>highest:
                 highest=n
-        return max(max_sum,highest)
+        if max_sum>=highest:
+            return max_sum
+        else:
+            return highest
