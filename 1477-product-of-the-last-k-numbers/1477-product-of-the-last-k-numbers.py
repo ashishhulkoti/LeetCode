@@ -3,17 +3,17 @@ class ProductOfNumbers:
     def __init__(self):
         self.prod_dict={-1:1}
         self.last=-1
-        self.zeroes=SortedList([])
+        self.zeroes=-1
     def add(self, num: int) -> None:
         if num==0:
             self.prod_dict[self.last+1]=1
-            self.zeroes.add(self.last+1)
+            self.zeroes=self.last+1
         else:
             self.prod_dict[self.last+1]=self.prod_dict[self.last]*num
         self.last+=1
 
     def getProduct(self, k: int) -> int:
-        if len(self.zeroes)==0 or (self.last-k+1)>self.zeroes[-1]:
+        if (self.last-k+1)>self.zeroes:
             return self.prod_dict[self.last]//self.prod_dict[self.last-k]
         return 0
             
