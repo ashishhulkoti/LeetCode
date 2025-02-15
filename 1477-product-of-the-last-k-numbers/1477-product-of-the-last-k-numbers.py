@@ -5,15 +5,14 @@ class ProductOfNumbers:
         self.last=-1
         self.zeroes=-1
     def add(self, num: int) -> None:
-        self.last+=1        
         if num==0:
-            self.prod_dict[self.last]=1
-            self.zeroes=self.last
+            self.prod_dict[self.last+1]=1
+            self.zeroes=self.last+1
         else:
-            self.prod_dict[self.last]=self.prod_dict[self.last-1]*num
+            self.prod_dict[self.last+1]=self.prod_dict[self.last]*num
+        self.last+=1
 
     def getProduct(self, k: int) -> int:
-        # print(self.prod_dict)
         if (self.last-k+1)>self.zeroes:
             return self.prod_dict[self.last]//self.prod_dict[self.last-k]
         return 0
