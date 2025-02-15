@@ -10,17 +10,22 @@ class MedianFinder:
             l,r=0,len(self.nums)-1
             while l<=r:
                 mid=l+(r-l)//2
-                if self.nums[mid]==num:
-                    self.nums.insert(mid,num)
-                    return
-                elif num>self.nums[mid]:
+                # if self.nums[mid]==num:
+
+                #     self.nums.insert(mid,num)
+                #     return
+                # elif num>self.nums[mid]:
+                #     l=mid+1
+                # else:
+                #     r=mid-1
+                if num>self.nums[mid]:
                     l=mid+1
                 else:
                     r=mid-1
-            if l==len(self.nums):
-                self.nums.append(num)
-            else:
-                self.nums.insert(l,num)
+            # if l==len(self.nums):
+            #     self.nums.append(num)
+            # else:
+            self.nums.insert(l,num)
 
     def findMedian(self) -> float:
         # print(self.nums)
