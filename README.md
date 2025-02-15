@@ -33,6 +33,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashishhulkoti/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishhulkoti/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ashishhulkoti/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishhulkoti/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ashishhulkoti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashishhulkoti/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -58,6 +59,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashishhulkoti/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishhulkoti/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ashishhulkoti/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishhulkoti/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashishhulkoti/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ashishhulkoti/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -127,6 +129,7 @@
 | [0042-trapping-rain-water](https://github.com/ashishhulkoti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/ashishhulkoti/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ashishhulkoti/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +154,7 @@
 | [1306-minimum-absolute-difference](https://github.com/ashishhulkoti/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishhulkoti/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ashishhulkoti/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishhulkoti/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Depth-First Search
 |  |
