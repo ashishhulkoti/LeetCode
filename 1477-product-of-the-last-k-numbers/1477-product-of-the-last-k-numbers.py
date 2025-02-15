@@ -6,7 +6,7 @@ class ProductOfNumbers:
         self.zeroes=-1
     def add(self, num: int) -> None:
         if num==0:
-            self.prod_dict[self.last+1]=1 #self.prod_dict[self.last]
+            self.prod_dict[self.last+1]=self.prod_dict[self.last]
             self.zeroes=self.last+1
         else:
             self.prod_dict[self.last+1]=self.prod_dict[self.last]*num
