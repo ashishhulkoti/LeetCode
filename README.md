@@ -128,6 +128,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ashishhulkoti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0295-find-median-from-data-stream](https://github.com/ashishhulkoti/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [1894-merge-strings-alternately](https://github.com/ashishhulkoti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ashishhulkoti/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
@@ -148,6 +149,7 @@
 | [0056-merge-intervals](https://github.com/ashishhulkoti/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/ashishhulkoti/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ashishhulkoti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0778-reorganize-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishhulkoti/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -180,6 +182,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ashishhulkoti/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/ashishhulkoti/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ashishhulkoti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0778-reorganize-string) |
 | [2434-design-a-number-container-system](https://github.com/ashishhulkoti/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -264,6 +267,7 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ashishhulkoti/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashishhulkoti/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/ashishhulkoti/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
@@ -281,5 +285,6 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ashishhulkoti/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashishhulkoti/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
