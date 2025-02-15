@@ -5,7 +5,7 @@ class ProductOfNumbers:
         self.last=1
     def add(self, num: int) -> None:    
         if num==0:
-            self.prod_list.clear()
+            self.prod_list=[]
             self.last=1
         else:
             self.last=self.last*num
