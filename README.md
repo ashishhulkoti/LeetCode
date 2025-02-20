@@ -27,6 +27,7 @@
 | [0322-coin-change](https://github.com/ashishhulkoti/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ashishhulkoti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ashishhulkoti/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0747-min-cost-climbing-stairs](https://github.com/ashishhulkoti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishhulkoti/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashishhulkoti/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1306-minimum-absolute-difference](https://github.com/ashishhulkoti/LeetCode/tree/master/1306-minimum-absolute-difference) |
@@ -151,6 +152,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishhulkoti/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishhulkoti/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ashishhulkoti/LeetCode/tree/master/0322-coin-change) |
+| [0747-min-cost-climbing-stairs](https://github.com/ashishhulkoti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
