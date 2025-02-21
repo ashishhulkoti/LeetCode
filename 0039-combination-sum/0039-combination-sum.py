@@ -1,15 +1,9 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        # seqs=[]
-        # candidates.sort()
         nums=Counter(candidates)
-        # print(nums)
         dp=[]
         for i in range(target+1):
             dp.append([])
-        # print(dp)
-        # return []
-        
         for s in range(1,target+1):
             if s in nums:
                 dp[s].append([s])
