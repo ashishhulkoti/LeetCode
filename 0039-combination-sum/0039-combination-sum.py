@@ -1,12 +1,18 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        # seqs=[]
+        # candidates.sort()
+        nums=Counter(candidates)
+        # print(nums)
         dp=[]
         for i in range(target+1):
             dp.append([])
-        for x in candidates:
-            if x<=target:
-                dp[x].append([x])
+        # print(dp)
+        # return []
+        
         for s in range(1,target+1):
+            if s in nums:
+                dp[s].append([s])
             i,j=1,s-1
             while i<=j:
                 if len(dp[i])!=0 and len(dp[j])!=0:
