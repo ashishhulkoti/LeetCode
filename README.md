@@ -177,6 +177,7 @@
 | ------- |
 | [0079-word-search](https://github.com/ashishhulkoti/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ashishhulkoti/LeetCode/tree/master/0200-number-of-islands) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -295,10 +296,12 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashishhulkoti/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashishhulkoti/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
