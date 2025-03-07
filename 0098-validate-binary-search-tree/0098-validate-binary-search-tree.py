@@ -13,13 +13,11 @@ class Solution:
                 return True
             if left:
                 if node.val >= parentVal or node.val<=rootVal:
-                    print("here 1", node.val, parentVal, rootVal)
                     return False
                 if not validHelper(node.left,node.val,rootVal,True) or not validHelper(node.right,node.val,parentVal,False):
                     return False
             else:
                 if node.val <= parentVal or node.val>=rootVal:
-                    print("here 2", node.val, parentVal, rootVal)
                     return False
                 if not validHelper(node.left,node.val,parentVal,True) or not validHelper(node.right,node.val,rootVal,False):
                     return False
