@@ -61,6 +61,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ashishhulkoti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ashishhulkoti/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0778-reorganize-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0778-reorganize-string) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1364-tuple-with-same-product](https://github.com/ashishhulkoti/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ashishhulkoti/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/ashishhulkoti/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -168,6 +169,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ashishhulkoti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0778-reorganize-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishhulkoti/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1306-minimum-absolute-difference](https://github.com/ashishhulkoti/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishhulkoti/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -186,6 +188,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -195,6 +198,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ashishhulkoti/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ashishhulkoti/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ashishhulkoti/LeetCode/tree/master/0322-coin-change) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -317,6 +321,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -330,6 +335,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
