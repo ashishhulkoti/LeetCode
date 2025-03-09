@@ -11,10 +11,7 @@ class Solution:
         if not root:
             return None
         
-        if p.val < root.val < q.val or q.val < root.val < p.val:
-            return root
-
-        if root == p or root ==q:
+        if p.val <= root.val <= q.val or q.val <= root.val <= p.val:
             return root
         
         if root.val < p.val:
