@@ -78,6 +78,7 @@
 | [0002-add-two-numbers](https://github.com/ashishhulkoti/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/ashishhulkoti/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashishhulkoti/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ashishhulkoti/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/ashishhulkoti/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
@@ -184,6 +185,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ashishhulkoti/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashishhulkoti/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ashishhulkoti/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ashishhulkoti/LeetCode/tree/master/0200-number-of-islands) |
@@ -198,6 +200,7 @@
 | [0101-symmetric-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ashishhulkoti/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ashishhulkoti/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/ashishhulkoti/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ashishhulkoti/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ashishhulkoti/LeetCode/tree/master/0322-coin-change) |
@@ -319,6 +322,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ashishhulkoti/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashishhulkoti/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ashishhulkoti/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashishhulkoti/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ashishhulkoti/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -334,6 +338,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ashishhulkoti/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashishhulkoti/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ashishhulkoti/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashishhulkoti/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ashishhulkoti/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
