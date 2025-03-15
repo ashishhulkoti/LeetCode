@@ -82,6 +82,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashishhulkoti/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ashishhulkoti/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/ashishhulkoti/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0237-delete-node-in-a-linked-list](https://github.com/ashishhulkoti/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
