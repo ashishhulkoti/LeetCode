@@ -74,6 +74,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishhulkoti/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashishhulkoti/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ashishhulkoti/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ashishhulkoti/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ashishhulkoti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashishhulkoti/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3447-clear-digits](https://github.com/ashishhulkoti/LeetCode/tree/master/3447-clear-digits) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ashishhulkoti/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashishhulkoti/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ashishhulkoti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ashishhulkoti/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ashishhulkoti/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Quickselect
 |  |
 | ------- |
