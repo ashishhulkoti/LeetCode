@@ -9,7 +9,7 @@ class Solution:
                     bs+=1
                 else:
                     if bs==0:
-                        ans.insert(0,tmpstr[i])
+                        ans.append(tmpstr[i])
                     else:
                         bs-=1
             
