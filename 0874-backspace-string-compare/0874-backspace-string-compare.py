@@ -1,20 +1,18 @@
 class Solution:
     def backspaceCompare(self, s: str, t: str) -> bool:
-        sstack=[]
-        tstack=[]
-
-        for x in s:
-            if x=="#":
-                if sstack:
-                    sstack.pop()
-            else:
-                sstack.append(x)
-
-        for x in t:
-            if x=="#":
-                if tstack:
-                    tstack.pop()
-            else:
-                tstack.append(x)
-        return sstack==tstack
         
+        def stringHelper(tmpstr):
+            bs=0
+            ans=[]
+            for i in range(len(tmpstr)-1,-1,-1):
+                if tmpstr[i]=="#":
+                    bs+=1
+                else:
+                    if bs==0:
+                        ans.insert(0,tmpstr[i])
+                    else:
+                        bs-=1
+            
+            return ans
+        
+        return stringHelper(s)==stringHelper(t)
