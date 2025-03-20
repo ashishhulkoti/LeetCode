@@ -108,6 +108,7 @@
 | [0049-group-anagrams](https://github.com/ashishhulkoti/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ashishhulkoti/LeetCode/tree/master/0079-word-search) |
 | [0778-reorganize-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0778-reorganize-string) |
+| [0874-backspace-string-compare](https://github.com/ashishhulkoti/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ashishhulkoti/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/ashishhulkoti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ashishhulkoti/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -150,6 +151,7 @@
 | [0088-merge-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/ashishhulkoti/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0874-backspace-string-compare](https://github.com/ashishhulkoti/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/ashishhulkoti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ashishhulkoti/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashishhulkoti/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0874-backspace-string-compare](https://github.com/ashishhulkoti/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ashishhulkoti/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashishhulkoti/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ashishhulkoti/LeetCode/tree/master/3447-clear-digits) |
@@ -294,6 +297,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/ashishhulkoti/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashishhulkoti/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ashishhulkoti/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
