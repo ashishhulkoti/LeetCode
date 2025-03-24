@@ -8,7 +8,6 @@ class Solution:
     def amountOfTime(self, root: Optional[TreeNode], start: int) -> int:
         topPath=0
         bottomPath=0
-        # nodesBeforeStart=0
 
         def treeTraversal(node) -> int:
             nonlocal topPath
