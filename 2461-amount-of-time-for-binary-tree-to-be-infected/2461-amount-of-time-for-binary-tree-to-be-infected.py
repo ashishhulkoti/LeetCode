@@ -34,15 +34,4 @@ class Solution:
 
         treeTraversal(root)
         return max(topPath,bottomPath)
-
-
-# 16 0 0
-# 17 1 0
-# 6 0 0
-# 13 0 0
-# 20 -1 1
-# returning left:  -2
-# 4 -2 0
-# 15 2 None
-
             
