@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishhulkoti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishhulkoti/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ashishhulkoti/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/ashishhulkoti/LeetCode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/ashishhulkoti/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ashishhulkoti/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishhulkoti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/ashishhulkoti/LeetCode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishhulkoti/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishhulkoti/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashishhulkoti/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
