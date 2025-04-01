@@ -1,41 +1,26 @@
 class Solution:
     def longestMonotonicSubarray(self, nums: List[int]) -> int:
-        if len(nums)==1:
-            return 1
-        longest_i=0
-        longest_d=0
-        l=0
-        r=1
-        while l<len(nums) and r<len(nums):
-            if l<r:
-                if nums[r]>nums[r-1]:
-                    r+=1
-                else:
-                    if longest_i<(r-l):
-                        longest_i=r-l
-                    if nums[r]==nums[r-1]:
-                        l=r+1
-                    else:
-                        l=r
-                        r-=1
+        curr_linc,curr_ldec,lonest_inc,lonest_dec=1,1,1,1
+
+        for i in range(1,len(nums)):    
+            if nums[i]>nums[i-1]:
+                curr_linc+=1
+                if curr_ldec>lonest_dec:
+                    lonest_dec=curr_ldec
+                curr_ldec=1
+            elif nums[i]<nums[i-1]:
+                curr_ldec+=1
+                if curr_linc>lonest_inc:
+                    lonest_inc=curr_linc
+                curr_linc=1
             else:
-                if nums[l]<nums[l-1]:
-                    l+=1
-                else:
-                    if longest_d<(l-r):
-                        longest_d=l-r
-                    if nums[l]==nums[l-1]:
-                        r=l+1
-                    else:
-                        r=l
-                        l-=1
-        if l<r and longest_i<(r-l):
-            longest_i=r-l
-        elif r<l and longest_d<(l-r):
-            longest_d=l-r
+                if curr_ldec>lonest_dec:
+                    lonest_dec=curr_ldec
+                curr_ldec=1
+                if curr_linc>lonest_inc:
+                    lonest_inc=curr_linc
+                curr_linc=1
 
-        if longest_i < longest_d:
-            return longest_d
-        else:
-            return longest_i
-
+        lonest_inc=max(lonest_inc,curr_linc)
+        lonest_dec=max(lonest_dec,curr_ldec)
+        return max(lonest_inc,lonest_dec)
