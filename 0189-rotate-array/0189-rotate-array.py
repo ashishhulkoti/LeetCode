@@ -16,11 +16,9 @@ class Solution:
                 i = (i+k+1)%n
                 continue
             seen.add(i)
-            # print(i,prevNum,nums[i])
             lseen+=1
             tmp=nums[i]
             nums[i] = prevNum
             prevNum = tmp
             i = (i + k) % n
-        print(count)
         return 
