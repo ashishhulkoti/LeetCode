@@ -126,6 +126,7 @@
 | [1894-merge-strings-alternately](https://github.com/ashishhulkoti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ashishhulkoti/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashishhulkoti/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/ashishhulkoti/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ashishhulkoti/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ashishhulkoti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashishhulkoti/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -172,6 +173,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-backspace-string-compare](https://github.com/ashishhulkoti/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/ashishhulkoti/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/ashishhulkoti/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ashishhulkoti/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
