@@ -55,6 +55,7 @@
 | [3429-special-array-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashishhulkoti/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ashishhulkoti/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishhulkoti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishhulkoti/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ashishhulkoti/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -311,6 +313,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishhulkoti/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishhulkoti/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Trie
 |  |
 | ------- |
