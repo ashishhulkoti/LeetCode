@@ -4,7 +4,7 @@ class Solution:
         for i in range(len(startTime)):
             times.append([startTime[i],endTime[i]])
         times.append([eventTime,eventTime])
-        times.sort(key = lambda x : x[0])
+        # times.sort(key = lambda x : x[0])
         diff=[]
         for i in range(len(times)-1):
             diff.append(times[i+1][0]-times[i][1])
