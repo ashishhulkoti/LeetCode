@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishhulkoti/LeetCode/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [0022-generate-parentheses](https://github.com/ashishhulkoti/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ashishhulkoti/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ashishhulkoti/LeetCode/tree/master/0079-word-search) |
+| [0394-decode-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0394-decode-string) |
 | [0778-reorganize-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/ashishhulkoti/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ashishhulkoti/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -294,6 +296,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashishhulkoti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashishhulkoti/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0394-decode-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/ashishhulkoti/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ashishhulkoti/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ashishhulkoti/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
