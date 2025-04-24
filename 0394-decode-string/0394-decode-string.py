@@ -16,11 +16,8 @@ class Solution:
                 stack.append(tmpAns * num)
                 tmpAns=""
             else:
-                if len(stack)>0:
-                    if isinstance(stack[-1],int):
-                        stack.append(stack.pop()*10+int(s[i]))
-                    else:
-                        stack.append(int(s[i]))
+                if len(stack)>0 and isinstance(stack[-1],int):
+                    stack.append(stack.pop()*10+int(s[i]))
                 else:
                     stack.append(int(s[i]))
             i+=1
