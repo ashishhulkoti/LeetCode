@@ -45,6 +45,7 @@
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ashishhulkoti/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ashishhulkoti/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ashishhulkoti/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2285-design-bitset](https://github.com/ashishhulkoti/LeetCode/tree/master/2285-design-bitset) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashishhulkoti/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ashishhulkoti/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -77,6 +78,7 @@
 | [1364-tuple-with-same-product](https://github.com/ashishhulkoti/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1512-design-underground-system](https://github.com/ashishhulkoti/LeetCode/tree/master/1512-design-underground-system) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ashishhulkoti/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2285-design-bitset](https://github.com/ashishhulkoti/LeetCode/tree/master/2285-design-bitset) |
 | [2434-design-a-number-container-system](https://github.com/ashishhulkoti/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashishhulkoti/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -132,6 +134,7 @@
 | [1894-merge-strings-alternately](https://github.com/ashishhulkoti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ashishhulkoti/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashishhulkoti/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2285-design-bitset](https://github.com/ashishhulkoti/LeetCode/tree/master/2285-design-bitset) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ashishhulkoti/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ashishhulkoti/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ashishhulkoti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -373,6 +376,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/ashishhulkoti/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashishhulkoti/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1512-design-underground-system](https://github.com/ashishhulkoti/LeetCode/tree/master/1512-design-underground-system) |
+| [2285-design-bitset](https://github.com/ashishhulkoti/LeetCode/tree/master/2285-design-bitset) |
 | [2434-design-a-number-container-system](https://github.com/ashishhulkoti/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
