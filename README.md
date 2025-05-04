@@ -302,6 +302,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashishhulkoti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashishhulkoti/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0173-binary-search-tree-iterator](https://github.com/ashishhulkoti/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/ashishhulkoti/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ashishhulkoti/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -365,6 +366,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ashishhulkoti/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/ashishhulkoti/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ashishhulkoti/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashishhulkoti/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -383,6 +385,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashishhulkoti/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ashishhulkoti/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashishhulkoti/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/ashishhulkoti/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/ashishhulkoti/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -403,6 +406,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashishhulkoti/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ashishhulkoti/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashishhulkoti/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/ashishhulkoti/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/ashishhulkoti/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -430,6 +434,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/ashishhulkoti/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -437,4 +442,8 @@
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/ashishhulkoti/LeetCode/tree/master/0871-keys-and-rooms) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ashishhulkoti/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
