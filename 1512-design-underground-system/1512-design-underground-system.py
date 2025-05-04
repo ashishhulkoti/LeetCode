@@ -2,14 +2,12 @@ class UndergroundSystem:
 
     def __init__(self):
         self.stationCheckins = defaultdict(tuple)
-        self.stationCheckouts = defaultdict(tuple)
         self.stationAverageTimes = {}
 
     def checkIn(self, id: int, stationName: str, t: int) -> None:
         self.stationCheckins[id]=(t,stationName)
 
     def checkOut(self, id: int, stationName: str, t: int) -> None:
-        self.stationCheckouts[id]=(t,stationName)
         stations = (self.stationCheckins[id][1],stationName)
         entrytime = self.stationCheckins[id][0]
         if stations in self.stationAverageTimes:
