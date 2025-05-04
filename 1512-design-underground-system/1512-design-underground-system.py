@@ -1,17 +1,17 @@
 class UndergroundSystem:
 
     def __init__(self):
-        self.stationCheckins = defaultdict(list)
-        self.stationCheckouts = defaultdict(list)
+        self.stationCheckins = defaultdict(tuple)
+        self.stationCheckouts = defaultdict(tuple)
         self.stationAverageTimes = {}
 
     def checkIn(self, id: int, stationName: str, t: int) -> None:
-        self.stationCheckins[id].append((t,stationName))
+        self.stationCheckins[id]=(t,stationName)
 
     def checkOut(self, id: int, stationName: str, t: int) -> None:
-        self.stationCheckouts[id].append((t,stationName))
-        stations = (self.stationCheckins[id][-1][1],stationName)
-        entrytime = self.stationCheckins[id][-1][0]
+        self.stationCheckouts[id]=(t,stationName)
+        stations = (self.stationCheckins[id][1],stationName)
+        entrytime = self.stationCheckins[id][0]
         if stations in self.stationAverageTimes:
             self.stationAverageTimes[stations][0]+= (t-entrytime)
             self.stationAverageTimes[stations][1] += 1
