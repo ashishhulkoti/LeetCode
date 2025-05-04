@@ -7,7 +7,6 @@
 class BSTIterator:
 
     def __init__(self, root: Optional[TreeNode]):
-        self.root = root
         self.treeArray = []
         self.pointer = -1
         def inorderTraverse(node):
