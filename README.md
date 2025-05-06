@@ -244,6 +244,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0871-keys-and-rooms](https://github.com/ashishhulkoti/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashishhulkoti/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -259,6 +260,7 @@
 | [0871-keys-and-rooms](https://github.com/ashishhulkoti/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ashishhulkoti/LeetCode/tree/master/1036-rotting-oranges) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashishhulkoti/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
@@ -405,6 +407,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashishhulkoti/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -426,6 +429,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashishhulkoti/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Data Stream
 |  |
