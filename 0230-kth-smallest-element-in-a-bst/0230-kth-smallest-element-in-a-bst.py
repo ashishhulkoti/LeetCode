@@ -20,5 +20,6 @@ class Solution:
                 return True
             if dfsHelper(node.right):
                 return True
+            return False
         dfsHelper(root)
         return ans
