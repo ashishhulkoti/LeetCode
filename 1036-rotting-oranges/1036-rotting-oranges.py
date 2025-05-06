@@ -14,12 +14,6 @@ class Solution:
                         orngr, orngc, orngt = currQ.pop(0)
                         if grid[orngr][orngc] == 0:
                             continue
-                        # if grid[orngr][orngc] == 2:
-                        #     while currQ:
-                        #         orngr, orngc, orngt = currQ.pop(0)
-                        #         if orngt < dp[orngr][orngc]:
-                        #             dp[orngr][orngc] = orngt
-                        #     break
                         if orngt < dp[orngr][orngc]:
                             dp[orngr][orngc] = orngt
                         else:
