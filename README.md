@@ -408,6 +408,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/ashishhulkoti/LeetCode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/ashishhulkoti/LeetCode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -430,6 +431,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/ashishhulkoti/LeetCode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/ashishhulkoti/LeetCode/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -455,6 +457,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/ashishhulkoti/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Graph
 |  |
