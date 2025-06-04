@@ -40,6 +40,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishhulkoti/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1036-rotting-oranges](https://github.com/ashishhulkoti/LeetCode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ashishhulkoti/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/ashishhulkoti/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-minimum-absolute-difference](https://github.com/ashishhulkoti/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1364-tuple-with-same-product](https://github.com/ashishhulkoti/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashishhulkoti/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -319,6 +320,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/ashishhulkoti/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/ashishhulkoti/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/ashishhulkoti/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ashishhulkoti/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ashishhulkoti/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ashishhulkoti/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -328,6 +330,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashishhulkoti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashishhulkoti/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/ashishhulkoti/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Merge Sort
 |  |
 | ------- |
