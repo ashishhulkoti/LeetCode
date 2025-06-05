@@ -56,6 +56,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishhulkoti/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ashishhulkoti/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashishhulkoti/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ashishhulkoti/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ashishhulkoti/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3429-special-array-i) |
@@ -207,6 +208,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ashishhulkoti/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/ashishhulkoti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ashishhulkoti/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishhulkoti/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishhulkoti/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Trie
 |  |
@@ -417,6 +420,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashishhulkoti/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -440,6 +444,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashishhulkoti/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
