@@ -63,6 +63,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ashishhulkoti/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ashishhulkoti/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ashishhulkoti/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
@@ -115,6 +116,7 @@
 | [2383-add-two-integers](https://github.com/ashishhulkoti/LeetCode/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashishhulkoti/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ashishhulkoti/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Recursion
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/ashishhulkoti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ashishhulkoti/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Sorting
 |  |
 | ------- |
@@ -389,6 +392,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/ashishhulkoti/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashishhulkoti/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashishhulkoti/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Design
 |  |
 | ------- |
@@ -486,4 +490,8 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ashishhulkoti/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Combinatorics
+|  |
+| ------- |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 <!---LeetCode Topics End-->
