@@ -1,13 +1,12 @@
 class Solution:
     def countOfPairs(self, nums: List[int]) -> int:
-        memo = {}
+        dp = [[[-1 for _ in range(51)] for __ in range(51)] for ___ in range(len(nums))]
         # @cache
         def countPairs(idx,x,y):
-            if (idx,x,y) in memo:
-                return memo[(idx,x,y)]
             if idx == (len(nums) - 1):
                 return 1
-            
+            if dp[idx][x][y] != -1:
+                return dp[idx][x][y]
             count = 0
 
             nextNum = nums[idx+1]
@@ -15,7 +14,19 @@ class Solution:
             for i in range(nextNum+1):
                 if x <= i and y >= (nextNum - i):
                     count += countPairs(idx+1,i,(nextNum - i))
-            memo[(idx,x,y)] = count
+            
+            dp[idx][x][y] = count
             return count
         
-        return countPairs(-1,float("-inf"),float("inf"))%(10**9 + 7)
+        count1 = 0
+
+        nNum = nums[0]
+
+        for j in range(nNum+1):
+            if float("-inf") <= j and float("inf") >= (nNum - j):
+                count1 += countPairs(0,j,(nNum - j))
+        
+        return count1%(10**9 + 7)
+
+
+        # return countPairs(-1,float("-inf"),float("inf"))%(10**9 + 7)
