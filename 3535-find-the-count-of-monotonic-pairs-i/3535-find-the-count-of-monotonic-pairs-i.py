@@ -1,7 +1,6 @@
 class Solution:
     def countOfPairs(self, nums: List[int]) -> int:
         dp = [[[-1 for _ in range(51)] for __ in range(51)] for ___ in range(len(nums))]
-        # @cache
         def countPairs(idx,x,y):
             if idx == (len(nums) - 1):
                 return 1
@@ -29,4 +28,22 @@ class Solution:
         return count1%(10**9 + 7)
 
 
-        # return countPairs(-1,float("-inf"),float("inf"))%(10**9 + 7)
+# class Solution:
+#     def countOfPairs(self, nums: List[int]) -> int:
+        
+#         @cache
+#         def countPairs(idx,x,y):
+#             # print(idx,x,y)
+#             if idx == (len(nums) - 1):
+#                 return 1
+            
+#             count = 0
+
+#             nextNum = nums[idx+1]
+
+#             for i in range(nextNum+1):
+#                 if x <= i and y >= (nextNum - i):
+#                     count += countPairs(idx+1,i,(nextNum - i))
+#             return count
+        
+#         return countPairs(-1,float("-inf"),float("inf"))%(10**9 + 7)
