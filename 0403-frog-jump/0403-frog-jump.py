@@ -9,16 +9,13 @@ class Solution:
             if (i,k) in memo:
                 return memo[(i,k)]
             if i == stones[-1]:
-                # memo[(i,k)] = True
                 return True
             
             c1 = False
             if k-1 > 0 and cross(i + k - 1, k - 1):
-                # memo[(i,k)] = True
                 return True
             c2 = False
             if k > 0 and cross(i + k, k):
-                # memo[(i,k)] =  True
                 return True
             c3 = False
             if cross(i + k + 1, k+1):
