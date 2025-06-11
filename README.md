@@ -109,6 +109,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishhulkoti/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ashishhulkoti/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/ashishhulkoti/LeetCode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/ashishhulkoti/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ashishhulkoti/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -467,6 +468,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ashishhulkoti/LeetCode/tree/master/0029-divide-two-integers) |
 | [0338-counting-bits](https://github.com/ashishhulkoti/LeetCode/tree/master/0338-counting-bits) |
 ## Binary Search Tree
 |  |
