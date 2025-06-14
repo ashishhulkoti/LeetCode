@@ -52,6 +52,7 @@
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ashishhulkoti/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ashishhulkoti/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ashishhulkoti/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2262-solving-questions-with-brainpower](https://github.com/ashishhulkoti/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2285-design-bitset](https://github.com/ashishhulkoti/LeetCode/tree/master/2285-design-bitset) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/ashishhulkoti/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -221,6 +222,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/ashishhulkoti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ashishhulkoti/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/ashishhulkoti/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [2262-solving-questions-with-brainpower](https://github.com/ashishhulkoti/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Sorting
