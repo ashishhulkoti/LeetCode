@@ -128,6 +128,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishhulkoti/LeetCode/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0394-decode-string) |
+| [0930-all-possible-full-binary-trees](https://github.com/ashishhulkoti/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 ## String
 |  |
 | ------- |
@@ -221,6 +222,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ashishhulkoti/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/ashishhulkoti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ashishhulkoti/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0930-all-possible-full-binary-trees](https://github.com/ashishhulkoti/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0943-sum-of-subarray-minimums](https://github.com/ashishhulkoti/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashishhulkoti/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -390,6 +392,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashishhulkoti/LeetCode/tree/master/0070-climbing-stairs) |
+| [0930-all-possible-full-binary-trees](https://github.com/ashishhulkoti/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 ## Backtracking
 |  |
 | ------- |
@@ -439,6 +442,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0930-all-possible-full-binary-trees](https://github.com/ashishhulkoti/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashishhulkoti/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -463,6 +467,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0930-all-possible-full-binary-trees](https://github.com/ashishhulkoti/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ashishhulkoti/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
