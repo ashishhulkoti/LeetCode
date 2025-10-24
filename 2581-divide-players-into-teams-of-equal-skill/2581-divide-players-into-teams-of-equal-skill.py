@@ -1,14 +1,26 @@
 class Solution:
     def dividePlayers(self, skill: List[int]) -> int:
-        skill.sort()
-        skill_sum=skill[0]+skill[-1]
-        chemistry=skill[0]*skill[-1]
-        l,r=1,len(skill)-2
-        while l<r:
-            if (skill[l]+skill[r])==skill_sum:
-                chemistry+=skill[l]*skill[r]
+        no_of_teams = len(skill) / 2
+        total_skill = sum(skill)
+        if total_skill%no_of_teams != 0:
+            return -1
+        team_skill = total_skill / no_of_teams
+        skill_dict = defaultdict(int)
+        chemistry = 0
+
+        for player_skill in skill:
+            complementary_skill = team_skill - player_skill
+            # print("current ---> ",player_skill)
+            if complementary_skill in skill_dict:
+                chemistry += complementary_skill * player_skill
+                skill_dict[complementary_skill] -= 1
+                # print("found compl ---> ",complementary_skill)
+                if skill_dict[complementary_skill] == 0:
+                    # print("deleting ---> ",complementary_skill)
+                    del skill_dict[complementary_skill]
             else:
-                return -1
-            l+=1
-            r-=1
-        return chemistry
+                skill_dict[player_skill] += 1
+        # print(chemistry)
+        if len(skill_dict) != 0:
+            return -1
+        return int(chemistry)
