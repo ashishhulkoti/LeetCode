@@ -10,17 +10,13 @@ class Solution:
 
         for player_skill in skill:
             complementary_skill = team_skill - player_skill
-            # print("current ---> ",player_skill)
             if complementary_skill in skill_dict:
                 chemistry += complementary_skill * player_skill
                 skill_dict[complementary_skill] -= 1
-                # print("found compl ---> ",complementary_skill)
                 if skill_dict[complementary_skill] == 0:
-                    # print("deleting ---> ",complementary_skill)
                     del skill_dict[complementary_skill]
             else:
                 skill_dict[player_skill] += 1
-        # print(chemistry)
         if len(skill_dict) != 0:
             return -1
         return int(chemistry)
