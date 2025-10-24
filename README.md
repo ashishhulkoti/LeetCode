@@ -142,6 +142,7 @@
 | [0079-word-search](https://github.com/ashishhulkoti/LeetCode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/ashishhulkoti/LeetCode/tree/master/0179-largest-number) |
 | [0394-decode-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0394-decode-string) |
+| [0696-count-binary-substrings](https://github.com/ashishhulkoti/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0778-reorganize-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/ashishhulkoti/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ashishhulkoti/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -196,6 +197,7 @@
 | [0189-rotate-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/ashishhulkoti/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/ashishhulkoti/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/ashishhulkoti/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/ashishhulkoti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ashishhulkoti/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
