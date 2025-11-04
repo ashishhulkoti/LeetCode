@@ -34,6 +34,7 @@
 | [0213-house-robber-ii](https://github.com/ashishhulkoti/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ashishhulkoti/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/ashishhulkoti/LeetCode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishhulkoti/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ashishhulkoti/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ashishhulkoti/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -242,6 +243,7 @@
 | [0088-merge-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/ashishhulkoti/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/ashishhulkoti/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/ashishhulkoti/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ashishhulkoti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0778-reorganize-string) |
@@ -521,4 +523,8 @@
 |  |
 | ------- |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ashishhulkoti/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
