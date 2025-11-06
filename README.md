@@ -91,6 +91,7 @@
 | [1364-tuple-with-same-product](https://github.com/ashishhulkoti/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ashishhulkoti/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-design-underground-system](https://github.com/ashishhulkoti/LeetCode/tree/master/1512-design-underground-system) |
+| [1905-design-authentication-manager](https://github.com/ashishhulkoti/LeetCode/tree/master/1905-design-authentication-manager) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ashishhulkoti/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2285-design-bitset](https://github.com/ashishhulkoti/LeetCode/tree/master/2285-design-bitset) |
 | [2434-design-a-number-container-system](https://github.com/ashishhulkoti/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -112,6 +113,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ashishhulkoti/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/ashishhulkoti/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ashishhulkoti/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1905-design-authentication-manager](https://github.com/ashishhulkoti/LeetCode/tree/master/1905-design-authentication-manager) |
 ## Math
 |  |
 | ------- |
@@ -427,6 +429,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/ashishhulkoti/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashishhulkoti/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1512-design-underground-system](https://github.com/ashishhulkoti/LeetCode/tree/master/1512-design-underground-system) |
+| [1905-design-authentication-manager](https://github.com/ashishhulkoti/LeetCode/tree/master/1905-design-authentication-manager) |
 | [2285-design-bitset](https://github.com/ashishhulkoti/LeetCode/tree/master/2285-design-bitset) |
 | [2434-design-a-number-container-system](https://github.com/ashishhulkoti/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
@@ -527,4 +530,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ashishhulkoti/LeetCode/tree/master/0274-h-index) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1905-design-authentication-manager](https://github.com/ashishhulkoti/LeetCode/tree/master/1905-design-authentication-manager) |
 <!---LeetCode Topics End-->
