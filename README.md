@@ -41,6 +41,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/ashishhulkoti/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/ashishhulkoti/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishhulkoti/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ashishhulkoti/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishhulkoti/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/ashishhulkoti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/ashishhulkoti/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -85,6 +86,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ashishhulkoti/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/ashishhulkoti/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ashishhulkoti/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0560-subarray-sum-equals-k](https://github.com/ashishhulkoti/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-reorganize-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -417,6 +419,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ashishhulkoti/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ashishhulkoti/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishhulkoti/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ashishhulkoti/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashishhulkoti/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
