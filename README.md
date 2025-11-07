@@ -27,6 +27,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishhulkoti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishhulkoti/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ashishhulkoti/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ashishhulkoti/LeetCode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/ashishhulkoti/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0189-rotate-array) |
@@ -179,6 +180,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishhulkoti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashishhulkoti/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ashishhulkoti/LeetCode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishhulkoti/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishhulkoti/LeetCode/tree/master/0713-subarray-product-less-than-k) |
