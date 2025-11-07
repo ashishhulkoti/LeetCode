@@ -236,6 +236,7 @@
 | [0930-all-possible-full-binary-trees](https://github.com/ashishhulkoti/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [0943-sum-of-subarray-minimums](https://github.com/ashishhulkoti/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashishhulkoti/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ashishhulkoti/LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Sorting
@@ -384,6 +385,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishhulkoti/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ashishhulkoti/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishhulkoti/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ashishhulkoti/LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ashishhulkoti/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Trie
@@ -503,6 +505,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/ashishhulkoti/LeetCode/tree/master/0029-divide-two-integers) |
 | [0338-counting-bits](https://github.com/ashishhulkoti/LeetCode/tree/master/0338-counting-bits) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ashishhulkoti/LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Binary Search Tree
 |  |
 | ------- |
