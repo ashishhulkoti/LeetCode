@@ -11,5 +11,5 @@ class Solution:
                 r = mid
             else:
                 l = mid + 1
-        return min(nums[l], nums[r])
+        return nums[l]
         
