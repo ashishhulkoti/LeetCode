@@ -115,6 +115,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishhulkoti/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/ashishhulkoti/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ashishhulkoti/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashishhulkoti/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ashishhulkoti/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/ashishhulkoti/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishhulkoti/LeetCode/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ashishhulkoti/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0394-decode-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0394-decode-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/ashishhulkoti/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 ## String
