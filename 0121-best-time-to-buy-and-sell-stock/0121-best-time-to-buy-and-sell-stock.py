@@ -3,13 +3,11 @@ class Solution:
         maxProfit = 0
         i = 1
         stockMinPrice = prices[0] 
-        while i < len(prices):
-            maxProfit = max(maxProfit, prices[i]-stockMinPrice)
-            stockMinPrice = min(stockMinPrice, prices[i])
-            # if prices[i] > stockMinPrice:
-            #     maxProfit = max(maxProfit, prices[i]-stockMinPrice)
-            # else:
-            #     stockMinPrice = prices[i]
+        for currStock in prices:
+            if currStock > stockMinPrice:
+                maxProfit = max(maxProfit, currStock-stockMinPrice)
+            else:
+                stockMinPrice = currStock
             i+=1
         return maxProfit
 
