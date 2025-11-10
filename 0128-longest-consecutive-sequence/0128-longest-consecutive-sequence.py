@@ -1,18 +1,18 @@
 class Solution:
+    
+    def findRange(self, x, seq):
+        highRange = x+1
+
+        while highRange in seq:
+            highRange+=1
+        return highRange-x
+
+    
     def longestConsecutive(self, nums: List[int]) -> int:
-        if len(nums)<=1:
-            return len(nums)
-        nums.sort()
-        count=1
-        max=1
-        # print(nums)
-        for i in range(len(nums)-1):
-            # print(nums[i],nums[i+1])
-            if nums[i]==(nums[i+1]-1):
-                count+=1
-                if count>max:
-                    max=count
-            elif nums[i] < (nums[i+1]-1):
-                count=1
-            # print(i,i+1,count)
-        return max
+        seq = set(nums)
+        maxSeq = 0
+        for number in seq:
+            if number-1 not in seq:
+                maxSeq = max(maxSeq, self.findRange(number, seq))
+        return maxSeq
+        
