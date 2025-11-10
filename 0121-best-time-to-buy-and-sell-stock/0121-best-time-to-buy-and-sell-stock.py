@@ -4,10 +4,12 @@ class Solution:
         i = 1
         stockMinPrice = prices[0] 
         while i < len(prices):
-            if prices[i] > stockMinPrice:
-                maxProfit = max(maxProfit, prices[i]-stockMinPrice)
-            else:
-                stockMinPrice = prices[i]
+            maxProfit = max(maxProfit, prices[i]-stockMinPrice)
+            stockMinPrice = min(stockMinPrice, prices[i])
+            # if prices[i] > stockMinPrice:
+            #     maxProfit = max(maxProfit, prices[i]-stockMinPrice)
+            # else:
+            #     stockMinPrice = prices[i]
             i+=1
         return maxProfit
 
