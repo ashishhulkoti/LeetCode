@@ -7,8 +7,8 @@ class Solution:
 
         for i, currTemp in enumerate(temperatures):
             while stack and temperatures[stack[-1]] < currTemp:
-                ans[stack[-1]] = i - stack[-1]
-                stack.pop()
+                prevTemp = stack.pop()
+                ans[prevTemp] = i - prevTemp
             stack.append(i)
         return ans
             
