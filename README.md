@@ -49,6 +49,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/ashishhulkoti/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/ashishhulkoti/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/ashishhulkoti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0753-open-the-lock](https://github.com/ashishhulkoti/LeetCode/tree/master/0753-open-the-lock) |
 | [0943-sum-of-subarray-minimums](https://github.com/ashishhulkoti/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ashishhulkoti/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1036-rotting-oranges](https://github.com/ashishhulkoti/LeetCode/tree/master/1036-rotting-oranges) |
@@ -93,6 +94,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/ashishhulkoti/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishhulkoti/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0753-open-the-lock](https://github.com/ashishhulkoti/LeetCode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1364-tuple-with-same-product](https://github.com/ashishhulkoti/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -157,6 +159,7 @@
 | [0179-largest-number](https://github.com/ashishhulkoti/LeetCode/tree/master/0179-largest-number) |
 | [0394-decode-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0394-decode-string) |
 | [0696-count-binary-substrings](https://github.com/ashishhulkoti/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0753-open-the-lock](https://github.com/ashishhulkoti/LeetCode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/ashishhulkoti/LeetCode/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/ashishhulkoti/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ashishhulkoti/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -307,6 +310,7 @@
 | [0200-number-of-islands](https://github.com/ashishhulkoti/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ashishhulkoti/LeetCode/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishhulkoti/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0753-open-the-lock](https://github.com/ashishhulkoti/LeetCode/tree/master/0753-open-the-lock) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ashishhulkoti/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/ashishhulkoti/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishhulkoti/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
