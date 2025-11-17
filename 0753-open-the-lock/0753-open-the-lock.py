@@ -3,7 +3,6 @@ class Solution:
     def openLock(self, deadends: List[str], target: str) -> int:
         que = deque()
         deadendSet = set(deadends)
-        # numOfRot = 0
         seen = set()
         que.append(["0000", 0])
 
@@ -16,9 +15,11 @@ class Solution:
                 return count
             
             for i in range(4):
-                newCombB = comb[:i] + str(abs(int(comb[i]) + 9)%10) + comb[i+1:]
-                newCombF = comb[:i] + str((int(comb[i]) + 1)%10) + comb[i+1:]
-
+                newCombB, newCombF = list(comb), list(comb)
+                newCombB[i] = str(abs(int(comb[i]) + 9)%10)
+                newCombF[i] = str((int(comb[i]) + 1)%10)
+                newCombB = "".join(newCombB)
+                newCombF = "".join(newCombF)
                 if newCombB not in seen:
                     que.append([newCombB, count+1])
                 if newCombF not in seen:
