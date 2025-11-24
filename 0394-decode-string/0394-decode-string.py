@@ -1,24 +1,27 @@
 class Solution:
+    def __init__(self):
+        self.index = 0
+
     def decodeString(self, s: str) -> str:
-        stack=[]
-        # stack.append(int(s[0]))
-        i=0
-        # ans=""
-        tmpAns=""
-        while i < len(s):
-            if s[i] == "[" or s[i] >= "a" and s[i] <= "z":
-                stack.append(s[i])
-            elif s[i] == "]":
-                while stack[len(stack)-1] != "[":
-                    tmpAns = stack.pop() + tmpAns
-                stack.pop()
-                num=stack.pop()
-                stack.append(tmpAns * num)
-                tmpAns=""
+        result = []
+        
+        while self.index < len(s) and s[self.index] != ']':
+            if not s[self.index].isdigit():  
+                result.append(s[self.index])
+                self.index += 1
             else:
-                if len(stack)>0 and isinstance(stack[-1],int):
-                    stack.append(stack.pop()*10+int(s[i]))
-                else:
-                    stack.append(int(s[i]))
-            i+=1
-        return "".join(stack)
+                # build the number k
+                k = 0
+                while self.index < len(s) and s[self.index].isdigit():
+                    k = k * 10 + int(s[self.index])
+                    self.index += 1
+
+                self.index += 1  # skip '['
+
+                decoded = self.decodeString(s)
+
+                self.index += 1  # skip ']'
+
+                result.append(decoded * k)
+        
+        return "".join(result)
